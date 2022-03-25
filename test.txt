@@ -1,3 +1,7 @@
 测试远程连接
 远程合并
+<<<<<<< HEAD
 fetch
+=======
+这是测试远程拉取
+>>>>>>> remoteDemo/master
